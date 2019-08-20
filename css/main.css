@@ -1,0 +1,18 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.highlight {
+    stroke: #000;
+    stroke-width: 5;
+    fill:none;
+    stroke-linecap:round;
+    stroke-linejoin:round;
+}
+
+.lowlight {
+  stroke: #ccc;
+}
